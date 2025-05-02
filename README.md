@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
+  <a href="https://sourav8908.github.io/Tech_blog_Bits_Co/" target="_blank">Tech_blog_Bits_Co</a>
 </h2>
 
 <div align="center">
