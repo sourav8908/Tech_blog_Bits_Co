@@ -68,7 +68,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Usage Instructions
-
+📢 Update: This line was added on GitHub.
 To write your own blogs create a markdown file in `_content` folder with the specified format. 
 
 ### Show your support
