@@ -38,7 +38,7 @@ This project was built using these technologies.
 - Dark mode support
 - VsCode
 - Vercel
--Demo
+-Demo 100
 
 ## Features
 
